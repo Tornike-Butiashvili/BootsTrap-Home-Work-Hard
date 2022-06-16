@@ -1,0 +1,146 @@
+* {
+    font-family: Sen, sans-serif;
+    box-sizing: border-box;
+}
+
+
+.logo-styling {
+    padding: 0rem;
+    margin-top: 8px;
+    padding: 2px 2px;
+    border-radius: 15%;
+}
+
+
+.background-section {
+    background-image: linear-gradient(360deg, #222, rgba(34, 34, 34, 0)), url("https://mealscall.com/assets/5e7ff3ec0c4ef4c974fa99e3/5e83f98bae1ad80129fcd7e5_wu-jianxiong-UniC8xhlzaE-unsplash.jpg");
+    min-height: 550px;
+    background-position: 0 0, 50% 50%;
+    background-size: auto, cover;
+}
+
+.serving {
+    width: 35%;
+    color: #f9f9f9;
+    font-size: 62px;
+    line-height: 1.2;
+    padding-top: 20px;
+
+}
+
+.container {
+    p {
+        width: 35%;
+        margin-bottom: 25px;
+        color: #f9f9f9;
+        font-size: 18px;
+    }
+
+    .btn-styl {
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+}
+
+.h4-font {
+    font-size: 17px;
+}
+
+.container {
+    h3 {
+        font-weight: 900;
+        font-size: 40px;
+    }
+}
+
+.top-left {
+    display: flex;
+    flex-direction: column;
+}
+
+.support-div {
+    margin-bottom: 40px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-wrap {
+    left: auto;
+    top: auto;
+    right: -25%;
+    bottom: -25%;
+}
+
+.support-card-wrapper {
+    justify-content: space-between;
+}
+
+.support-column {
+    width: 30%;
+    min-height: 200px;
+}
+
+.support-square {
+    position: relative;
+    display: flex;
+    overflow: hidden;
+    min-height: 350px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    background-color: #222;
+}
+
+.square-number {
+    left: 10%;
+    top: 10%;
+    right: auto;
+    bottom: auto;
+    color: #f9f9f9;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.square-text {
+    color: #f9f9f9;
+    font-size: 40px;
+    line-height: 1.2;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.bg-image-2 {
+    background-image: linear-gradient(360deg, #222, rgba(34, 34, 34, 0)), url("https://mealscall.com/assets/5e7ff3ec0c4ef4c974fa99e3/5e83fb3a6948e1f05b20527f_nathan-dumlao-pLoMDKtl-JY-unsplash.jpg");
+    min-height: 550px;
+    background-position: 0 0, 50% 50%;
+    background-size: auto, cover;
+}
+
+.safe-wraper {
+
+    width: 45%;
+    color: #f9f9f9;
+
+    line-height: 1.2;
+    text-align: right;
+
+
+    h2 {
+        width: 45%;
+
+        color: #f9f9f9;
+        font-size: 45px;
+        line-height: 1.2;
+        text-align: right;
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+}
+
+footer {
+
+    h2 {
+        font-size: 40px;
+        font-weight: 600;
+    }
+}
